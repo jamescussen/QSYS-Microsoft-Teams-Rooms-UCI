@@ -1,6 +1,6 @@
 **QSYS Microosft Teams Rooms UCI Style and Template**
 
-![Image]([https://github.com/jamescussen/QSYS-Microsoft-Teams-Rooms-UCI/raw/master/QSYS-Microsoft-Teams-UCI-Template-1.00.jpg])
+![Image]([https://github.com/jamescussen/QSYS-Microsoft-Teams-Rooms-UCI/raw/main/QSYS-Microsoft-Teams-UCI-Template-1.00.jpg])
 
 Installing the Microsoft Teams Rooms Style in your Designs:
 1. Unzip the “Microsoft Teams Rooms UCI 1.00” file into the Q-SYS Styles folder (Note: If the folder doesn’t exist you may have to make this folder structure yourself.):
