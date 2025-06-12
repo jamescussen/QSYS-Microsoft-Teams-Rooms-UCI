@@ -1,6 +1,6 @@
 **Q-SYS Microsoft Teams Room UCI Style and Template**
 
-
+![Image](https://github.com/jamescussen/QSYS-Microsoft-Teams-Rooms-UCI/raw/main/QSYS-Microsoft-Teams-UCI-Template.jpg)
 
 1. Unzip the "Microsoft Teams Rooms UCI 1.00" file into the Q-SYS Styles folder: %USERPROFILE%\Documents\QSC\Q-SYS Designer\Styles
 2. In Q-SYS Designer, create or open a design file.
